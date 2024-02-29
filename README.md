@@ -1,7 +1,7 @@
 ![logo](https://github.com/gaurvraj/gaurvraj/blob/main/Gaurav%20github%20banner.gif)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There+;I'm+Kumar+Gaurav)](https://git.io/typing-svg)
 <h3 align="center">A passionate IOT engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/embedded/download/T6OS.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/gaurvraj/gaurvraj/blob/main/gaurav%20github.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurvraj&label=Profile%20views&color=0e75b6&style=flat&theme=vue-dark" alt="gaurvraj" /> </p>
 
