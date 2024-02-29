@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurvraj&show_icons=true&locale=en&theme=vue-dark" alt="gaurvraj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurvraj&theme=vue-dark" alt="gaurvraj" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurvraj" alt="gaurvraj" /></a> </p>
